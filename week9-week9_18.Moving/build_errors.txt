@@ -1,0 +1,6 @@
+
+BUILD FAILED
+C:\MOOC\TMCProjects\2013-OOProgrammingWithJava-PART2\week9-week9_18.Moving\nbproject\build-impl.xml:915: The following error occurred while executing this line:
+C:\MOOC\TMCProjects\2013-OOProgrammingWithJava-PART2\week9-week9_18.Moving\nbproject\build-impl.xml:268: Error running javac.exe compiler
+
+Total time: 0 seconds
